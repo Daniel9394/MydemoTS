@@ -1,0 +1,16 @@
+{
+  "defaultCommandTimeout": 8000,
+  "env": {
+    "Url": "https://rahulshettyacademy.com/angularpractice/",
+    
+    "allure": true,
+      "allureResultsPath": "reports/allure-results",
+        
+    "tmsPrefix": "https://url-to-bug-tracking-system/task-",
+    "issuePrefix": "https://url-to-tms/tests/caseId-"
+  },
+  "testFiles": "**/*.feature",
+  "ignoreTestFiles": "*.js",
+  "projectId": "rpeyxg"
+  
+}
