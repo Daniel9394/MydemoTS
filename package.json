@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "Exe": "npx cypress run --spec cypress\\integration\\BDD\\Test.feature --headed --browser chrome"
+    "Exe": "npx cypress run --spec cypress\\integration\\BDD\\Test.feature --headed --browser chrome",
+    "New": ""
   },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
